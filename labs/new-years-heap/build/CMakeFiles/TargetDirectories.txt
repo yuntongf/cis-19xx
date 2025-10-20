@@ -1,0 +1,3 @@
+/home/agostof/Projects/cis-19xx/labs/new-years-heap/build/CMakeFiles/nyh.dir
+/home/agostof/Projects/cis-19xx/labs/new-years-heap/build/CMakeFiles/edit_cache.dir
+/home/agostof/Projects/cis-19xx/labs/new-years-heap/build/CMakeFiles/rebuild_cache.dir

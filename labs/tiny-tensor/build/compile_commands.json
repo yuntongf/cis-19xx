@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/agostof/Projects/cis-19xx/labs/tiny-tensor/build",
+  "command": "/usr/bin/c++  -I/home/agostof/Projects/cis-19xx/labs/tiny-tensor/include -std=gnu++20 -o CMakeFiles/tinytensor.dir/main.cpp.o -c /home/agostof/Projects/cis-19xx/labs/tiny-tensor/main.cpp",
+  "file": "/home/agostof/Projects/cis-19xx/labs/tiny-tensor/main.cpp",
+  "output": "CMakeFiles/tinytensor.dir/main.cpp.o"
+}
+]

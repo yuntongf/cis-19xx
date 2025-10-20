@@ -1,0 +1,3 @@
+/home/agostof/Projects/cis-19xx/labs/tiny-tensor/build/CMakeFiles/tinytensor.dir
+/home/agostof/Projects/cis-19xx/labs/tiny-tensor/build/CMakeFiles/edit_cache.dir
+/home/agostof/Projects/cis-19xx/labs/tiny-tensor/build/CMakeFiles/rebuild_cache.dir

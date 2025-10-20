@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/agostof/Projects/cis-19xx/labs/a-cappella/build",
+  "command": "/usr/bin/c++  -I/home/agostof/Projects/cis-19xx/labs/a-cappella/include -std=gnu++20 -Wall -Wextra -Wpedantic -O2 -o CMakeFiles/acappella.dir/src/main.cpp.o -c /home/agostof/Projects/cis-19xx/labs/a-cappella/src/main.cpp",
+  "file": "/home/agostof/Projects/cis-19xx/labs/a-cappella/src/main.cpp",
+  "output": "CMakeFiles/acappella.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/agostof/Projects/cis-19xx/labs/a-cappella/build",
+  "command": "/usr/bin/c++  -I/home/agostof/Projects/cis-19xx/labs/a-cappella/include -std=gnu++20 -Wall -Wextra -Wpedantic -O2 -o CMakeFiles/acappella.dir/src/mixer.cpp.o -c /home/agostof/Projects/cis-19xx/labs/a-cappella/src/mixer.cpp",
+  "file": "/home/agostof/Projects/cis-19xx/labs/a-cappella/src/mixer.cpp",
+  "output": "CMakeFiles/acappella.dir/src/mixer.cpp.o"
+},
+{
+  "directory": "/home/agostof/Projects/cis-19xx/labs/a-cappella/build",
+  "command": "/usr/bin/c++  -I/home/agostof/Projects/cis-19xx/labs/a-cappella/include -std=gnu++20 -Wall -Wextra -Wpedantic -O2 -o CMakeFiles/acappella.dir/src/track.cpp.o -c /home/agostof/Projects/cis-19xx/labs/a-cappella/src/track.cpp",
+  "file": "/home/agostof/Projects/cis-19xx/labs/a-cappella/src/track.cpp",
+  "output": "CMakeFiles/acappella.dir/src/track.cpp.o"
+}
+]

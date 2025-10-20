@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ACappella.dir/src/main.cpp.o -o ACappella  /usr/lib/x86_64-linux-gnu/libsfml-audio.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1 

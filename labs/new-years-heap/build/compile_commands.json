@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/agostof/Projects/cis-19xx/labs/new-years-heap/build",
+  "command": "/usr/bin/c++  -I/home/agostof/Projects/cis-19xx/labs/new-years-heap/include -std=gnu++20 -Wall -Wextra -Wpedantic -O2 -o CMakeFiles/nyh.dir/main.cpp.o -c /home/agostof/Projects/cis-19xx/labs/new-years-heap/main.cpp",
+  "file": "/home/agostof/Projects/cis-19xx/labs/new-years-heap/main.cpp",
+  "output": "CMakeFiles/nyh.dir/main.cpp.o"
+},
+{
+  "directory": "/home/agostof/Projects/cis-19xx/labs/new-years-heap/build",
+  "command": "/usr/bin/c++  -I/home/agostof/Projects/cis-19xx/labs/new-years-heap/include -std=gnu++20 -Wall -Wextra -Wpedantic -O2 -o CMakeFiles/nyh.dir/src/allocator.cpp.o -c /home/agostof/Projects/cis-19xx/labs/new-years-heap/src/allocator.cpp",
+  "file": "/home/agostof/Projects/cis-19xx/labs/new-years-heap/src/allocator.cpp",
+  "output": "CMakeFiles/nyh.dir/src/allocator.cpp.o"
+},
+{
+  "directory": "/home/agostof/Projects/cis-19xx/labs/new-years-heap/build",
+  "command": "/usr/bin/c++  -I/home/agostof/Projects/cis-19xx/labs/new-years-heap/include -std=gnu++20 -Wall -Wextra -Wpedantic -O2 -o CMakeFiles/nyh.dir/src/cache.cpp.o -c /home/agostof/Projects/cis-19xx/labs/new-years-heap/src/cache.cpp",
+  "file": "/home/agostof/Projects/cis-19xx/labs/new-years-heap/src/cache.cpp",
+  "output": "CMakeFiles/nyh.dir/src/cache.cpp.o"
+},
+{
+  "directory": "/home/agostof/Projects/cis-19xx/labs/new-years-heap/build",
+  "command": "/usr/bin/c++  -I/home/agostof/Projects/cis-19xx/labs/new-years-heap/include -std=gnu++20 -Wall -Wextra -Wpedantic -O2 -o CMakeFiles/nyh.dir/src/slab.cpp.o -c /home/agostof/Projects/cis-19xx/labs/new-years-heap/src/slab.cpp",
+  "file": "/home/agostof/Projects/cis-19xx/labs/new-years-heap/src/slab.cpp",
+  "output": "CMakeFiles/nyh.dir/src/slab.cpp.o"
+}
+]

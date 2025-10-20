@@ -1,0 +1,3 @@
+/home/agostof/Projects/cis-19xx/labs/a-cappella/build/CMakeFiles/acappella.dir
+/home/agostof/Projects/cis-19xx/labs/a-cappella/build/CMakeFiles/edit_cache.dir
+/home/agostof/Projects/cis-19xx/labs/a-cappella/build/CMakeFiles/rebuild_cache.dir

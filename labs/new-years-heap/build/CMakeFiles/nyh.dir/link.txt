@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/nyh.dir/main.cpp.o CMakeFiles/nyh.dir/src/allocator.cpp.o CMakeFiles/nyh.dir/src/cache.cpp.o CMakeFiles/nyh.dir/src/slab.cpp.o -o nyh  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.6.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.6.1 
